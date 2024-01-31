@@ -31,7 +31,8 @@
         "humao.rest-client",
         "ChakrounAnas.turbo-console-log",
         "bierner.markdown-preview-github-styles",
-        "cschlosser.doxdocgen"
+        "cschlosser.doxdocgen",
+        "Prisma.prisma"
       ]
     }
   }
