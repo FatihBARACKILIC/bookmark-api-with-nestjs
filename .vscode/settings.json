@@ -12,6 +12,7 @@
     "pactum",
     "portgres",
     "rangav",
-    "signin"
+    "signin",
+    "signup"
   ]
 }
